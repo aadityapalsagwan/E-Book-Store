@@ -94,6 +94,8 @@ export default function ChangePassword() {
           name="keywords"
           content={` ebook, online book purchase, digital ebook store`}
         />
+         <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-orange-50 to-white px-4 py-8">
       <div className="w-full max-w-md bg-white p-8 rounded-2xl shadow-xl transition-all duration-300 ease-in-out">
