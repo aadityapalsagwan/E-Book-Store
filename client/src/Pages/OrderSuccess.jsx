@@ -19,6 +19,8 @@ export default function OrderSuccess() {
           name="keywords"
           content="order success, order confirmation, thank you for purchase, ebook download, digital book order, secure online bookstore"
         />
+        <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
     <section className="min-h-screen flex flex-col items-center justify-center bg-green-100 relative overflow-hidden px-4">
       {/* Background Glow */}
