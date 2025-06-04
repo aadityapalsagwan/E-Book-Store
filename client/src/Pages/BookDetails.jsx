@@ -174,6 +174,8 @@ export default function BookDetails() {
           name="keywords"
           content={`${book.title}, buy ${book.title}, ${book.author}, ebook, add to cart, online bookstore`}
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <section className="min-h-screen bg-gradient-to-b from-indigo-50 to-white p-4 sm:p-6 md:p-12 font-sans">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-8 md:gap-14">
