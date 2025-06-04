@@ -77,6 +77,8 @@ export default function FAQ() {
           name="keywords"
           content={` ebook, online book purchase, digital ebook store`}
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gradient-to-b from-white to-blue-50 py-12 px-4 sm:px-6 lg:px-24 text-gray-800">
         <div className="max-w-4xl mx-auto">
