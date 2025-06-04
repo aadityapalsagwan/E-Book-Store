@@ -73,6 +73,8 @@ export default function Orders() {
           name="keywords"
           content="my orders, order history, ebook purchases, track orders, download receipts, digital book orders, online bookstore orders"
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gradient-to-b from-orange-50 via-white to-orange-50 p-6 font-sans">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-10 gap-6">
