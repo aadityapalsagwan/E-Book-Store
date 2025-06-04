@@ -85,6 +85,8 @@ export default function PaymentPage() {
           name="keywords"
           content="secure payment, online checkout, fast payment, trusted payment gateway, ebook purchase, buy ebooks online, safe transactions"
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <section className="max-w-md mx-auto p-10 mt-12 bg-gradient-to-tr from-indigo-100 via-white to-indigo-100 rounded-2xl shadow-2xl font-sans">
         <h1 className="text-4xl font-extrabold text-indigo-800 mb-10 text-center relative inline-block">
