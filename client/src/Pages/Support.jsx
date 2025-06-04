@@ -79,6 +79,8 @@ export default function Support() {
           name="keywords"
           content="customer support, help, assistance, ebookstore support, order help, download issues, account support"
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gradient-to-tr from-white to-indigo-50 p-8 flex flex-col items-center">
         <div className="max-w-4xl w-full bg-white shadow-xl rounded-2xl p-10">
