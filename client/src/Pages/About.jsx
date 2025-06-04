@@ -10,6 +10,8 @@ export default function About() {
         <title>About Us | E-Bookstore | By Aaditya Pal, Rohit KUmar</title>
         <meta name="description" content="Learn more about E-Bookstore and our mission to deliver quality digital books." />
         <meta name="keywords" content="about ebookstore, digital books, our mission, ebooks india" />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gradient-to-b from-white to-blue-50 py-12 px-6 lg:px-24 text-gray-800">
         <div className="max-w-6xl mx-auto space-y-16">
