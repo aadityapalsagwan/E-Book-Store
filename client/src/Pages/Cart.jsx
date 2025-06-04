@@ -50,6 +50,8 @@ export default function Cart() {
           name="keywords"
           content={` ebook, online book purchase, digital ebook store`}
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gray-100 p-6 sm:p-8">
         <div className="max-w-7xl mx-auto space-y-8">
