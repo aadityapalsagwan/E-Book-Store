@@ -94,6 +94,8 @@ export default function Buy() {
           name="keywords"
           content={`${book.title}, buy ${book.title}, ${book.author}, ebook, add to cart, online bookstore`}
         />
+           <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
     <section className="min-h-screen bg-gradient-to-br from-indigo-50 via-white to-indigo-100 p-6 md:p-12 flex justify-center items-center font-sans">
       <motion.div
