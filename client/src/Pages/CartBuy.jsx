@@ -81,6 +81,8 @@ export default function CartBuy() {
           name="keywords"
           content={` ebook, online book purchase, digital ebook store`}
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gradient-to-b from-gray-100 to-white p-8 sm:p-12">
         <motion.h1
