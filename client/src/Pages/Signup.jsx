@@ -51,6 +51,8 @@ export default function Signup() {
           name="keywords"
           content="signup, create account, register, ebookstore signup, free account creation, secure registration, online bookstore"
         />
+         <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
     <div className="min-h-screen bg-gradient-to-tr from-indigo-200 via-white to-cyan-100 flex flex-col">
       {/* Navbar */}
