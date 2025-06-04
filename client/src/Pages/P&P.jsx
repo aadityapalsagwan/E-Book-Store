@@ -16,6 +16,8 @@ export default function PrivacyPolicy() {
           name="keywords"
           content="privacy policy, data protection, user privacy, ebookstore privacy, personal information security, online bookstore privacy"
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gradient-to-b from-indigo-50 to-white py-12 px-6 lg:px-24 text-gray-800">
         <div className="max-w-5xl mx-auto">
