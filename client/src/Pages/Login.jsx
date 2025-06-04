@@ -59,6 +59,8 @@ export default function Login() {
           name="keywords"
           content="login, secure login, user account access, ebookstore login, sign in, online bookstore account"
         />
+           <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
 
       <div className="min-h-screen bg-gradient-to-tr from-cyan-100 via-white to-indigo-100 flex flex-col">
