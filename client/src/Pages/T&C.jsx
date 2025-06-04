@@ -16,6 +16,8 @@ export default function TermsConditions() {
           name="keywords"
           content="terms and conditions, user agreement, ebookstore policies, legal terms, user obligations, online bookstore terms"
         />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
       <div className="min-h-screen bg-gradient-to-br from-white via-indigo-50 to-blue-100 px-6 py-16 text-gray-800">
         <div className="max-w-5xl mx-auto bg-white shadow-xl rounded-3xl p-10 lg:p-16 transition-all duration-300">
