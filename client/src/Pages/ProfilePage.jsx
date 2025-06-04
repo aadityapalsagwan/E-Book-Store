@@ -125,6 +125,8 @@ export default function ProfilePage() {
         <title>Profile | E-Bookstore | By Aaditya Pal , Rohit Kumar</title>
         <meta name="description" content="Read more about Book Title and buy the best ebooks online." />
         <meta name="keywords" content="Book Title, ebook, buy book, read online, download pdf" />
+          <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
 
       <main className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 flex flex-col items-center pt-16 px-4">
