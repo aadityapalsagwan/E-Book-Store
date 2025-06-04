@@ -26,6 +26,8 @@ export default function Home() {
           name="keywords"
           content={` ebook, online book purchase, digital ebook store`}
         />
+              <meta name="google-site-verification" content="googlee69265a6530ed2e3" />
+
       </Helmet>
     <HeroSection/>
     <Books/>
