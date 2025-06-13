@@ -25,6 +25,11 @@ app.use('/api/books', bookRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/review', reviewroutes);
 
+// ✅ Health check route — yahan add karo
+app.get("/health", (req, res) => {
+  res.status(200).send("OK");
+});
+
 // Error middleware
 app.use(errorHandler);
 
