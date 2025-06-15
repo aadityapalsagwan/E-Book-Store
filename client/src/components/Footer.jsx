@@ -19,7 +19,7 @@ export default function Footer() {
       },
     },
     {
-      name: 'Aaditya Palsagwan',
+      name: 'Aaditya Pal Sagwan',
       handle: 'aadityapalsagwan',
       handles: 'c.r.e.a.t.o.r.s.s',
       socials: {
