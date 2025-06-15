@@ -12,7 +12,7 @@ export default function Footer() {
       handles: 'rohitsinghcode',
       socials: {
         github: 'https://github.com/rohitsinghcodes',
-        twitter: 'https://twitter.com/rohitsinghcodes',
+        twitter: 'https://x.com/rohitsinghcodes',
         linkedin: 'https://linkedin.com/in/rohitsinghcodes',
         instagram: 'https://instagram.com/rohitsinghcodes',
         fb: 'https://facebook.com/rohitsinghcodes',
@@ -24,7 +24,7 @@ export default function Footer() {
       handles: 'c.r.e.a.t.o.r.s.s',
       socials: {
         github: 'https://github.com/aadityapalsagwan',
-        twitter: 'https://twitter.com/aadityapalsagwan',
+        twitter: 'https://x.com/adityapalsagwan',
         linkedin: 'https://linkedin.com/in/aadityapalsagwan',
         instagram: 'https://instagram.com/aadityapalsagwan',
         fb: 'https://facebook.com/aadityapalsagwan',
