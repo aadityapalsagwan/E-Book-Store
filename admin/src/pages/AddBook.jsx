@@ -117,10 +117,10 @@ const AddBook = () => {
                 >
                   <option value="" disabled>Select a category</option>
                   <option value="Novel">Novel</option>
-                  <option value="NCERT">Science</option>
-                  <option value="NCERT">Fiction</option>
+                  <option value="Science">Science</option>
+                  <option value="Fiction">Fiction</option>
                   <option value="Business">Business Book</option>
-                  <option value="Business">History</option>
+                  <option value="History">History</option>
                   <option value="Others">Others</option>
                 </select>
               </div>
