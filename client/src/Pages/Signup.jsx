@@ -20,8 +20,7 @@ export default function Signup() {
     setError('');
 
     try {
-      // const response = await fetch(`${API_BASE_URL}/users/signup`, {
-      const response = await fetch(`https://e-book-store-backend-my9e.onrender.com/api/users/signup`, {
+      const response = await fetch(`${API_BASE_URL}/users/signup`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name, email, password }),
