@@ -203,7 +203,7 @@ export default function Footer() {
         <p>
           Designed & Developed by{' '}
           <a
-            href="https://www.linkedin.com/in/aadityapalsagwan/"
+            href="https://aadityapalsagwan-portfolio.onrender.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-indigo-400 hover:text-indigo-500 transition-colors"
@@ -223,7 +223,7 @@ export default function Footer() {
           </a>
           & */}
           <a
-            href="https://www.linkedin.com/in/rohitsinghcodes/"
+            href="https://rohitsinghcodes-portfolio.onrender.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-blue-500 transition-colors font-medium"
